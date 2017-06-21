@@ -1,0 +1,7 @@
+<span id="a">ruth@johnson</span>:<span id="b">~</span><span id="c">$</span> cat About_Ruthie.txt <br/><br/>
+Hi, my name is Ruth Dolly Johnson!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a senior at UCLA studying math/computer science and minoring in<br/>bioinformatics. I'm working at Sandia National Laboratories as a<br/> R&D Engineering Intern. <br/>
+Here's a bit of the <a href="work.html">Work</a> I have done. I also like to do some <br/><a href="code.html">Code</a> on the side, and share my <a href="https://medium.com/@ruthiejohnson">Thoughts.</a>
+<br/>Feel free to connect or just say hi through <a href="mailto:ruthjohnson@ucla.edu">email</a>,  <a href="https://github.com/ruthjohnson95">Github</a>, or  <a href="https://www.linkedin.com/in/ruthjohnson13">LinkedIn</a>.
+<!-- slightdelayhere-->
+Fun Fact of the Day: I used to do competitive gymnastics. And yes, I can <br/>still do a flip. You can see some more cool flips <a href="https://www.youtube.com/watch?v=Jh0s3gE7KMw">here.</a> </p>
+<p>...continue to <a href="work.html">WORK ></a>.</p>

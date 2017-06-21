@@ -1,0 +1,183 @@
+
+<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+p, h1, h2, h3, h4, h5{
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+  color: #092930;
+}
+
+h1{
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.navbar-default {
+    background-color: #5BBCC9;
+    border-color: #5BBCC9;
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: white;
+  font-size: 125%;
+}
+.navbar-default .navbar-brand {
+    color: white;
+    font-size: 125%;
+}
+
+.main{
+  background-color: #5BBCC9;
+  padding-top: 0;
+  padding-bottom: 100px;
+  height: 100%
+}
+  body {
+  backgrond-color: #2C3E50;
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+}
+body p{
+  font-weight: 200;
+}
+.highlights{
+  margin: auto;
+  width: 70%;
+}
+
+#highlights{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+#sub_heading{
+  color: #6C7A89;
+  padding-bottom: 50px;
+}
+.highlights img{
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.highlights p{
+  font-size: 19px;
+}
+
+.highlights h3{
+ color: #2C3E50;
+}
+
+.highlights h4{
+  color: #5BBCC9;
+}
+
+.panel2{
+  background-color: white;
+}
+
+.media-body{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.terminal-window {
+  text-align: left;
+  width: 650px;
+  height: 400px;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+}
+
+.terminal-window header {
+  background: #E0E8F0;
+  height: 30px;
+  border-radius: 8px 8px 0 0;
+  padding-left: 10px;
+}
+
+.terminal-window header .button {
+  width: 12px;
+  height: 12px;
+  margin: 10px 4px 0 0;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+.terminal-window header .button.green {
+  background: #3BB662;
+}
+
+.terminal-window header .button.yellow {
+  background: #E5C30F;
+}
+
+.terminal-window header .button.red {
+  background: #E75448;
+}
+
+.terminal-window section.terminal {
+  color: white;
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+  font-size: 11pt;
+  background: #30353A;
+  padding: 10px;
+  box-sizing: border-box;
+  position: absolute;
+  width: 100%;
+  top: 30px;
+  bottom: 0;
+  overflow: auto;
+}
+
+.terminal-data { display: none; }
+.terminal-window .gray { color: gray; }
+.terminal-window .green { color: green;}
+  #console {
+    color: #fff;
+    width:850px;
+    /*margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;*/
+  }
+  a {
+    color: #0bc;
+    text-decoration: none;
+  }
+  #a {
+    color: #E9D460;
+  }
+  #c {
+    color: #0bc;
+  }
+  #b {
+    color: #ff0096;
+  }
+
+  footer {
+    height: 175px;
+    background-color: #2C3E50;
+    color: #E9D460;
+    text-align: center;
+  }
+  #thank_you{
+    padding-top: 50px;
+  }
+  .icons{
+    margin:  0 auto;
+    padding-top: 30px;
+  }
+  .icons img{
+    padding-right:15px;
+    padding-left: 15px;
+  }
+  .skip{
+  text-align: left;
+  width: 650px;
+  height: 100px;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+
+  }
